@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  background-color:#9fd5d1;
+  
+  
+  
+  
+ font-family: 'Tapestry', cursive;
+  
+}
+h1{
+  color: red;
+}
+video {
+  margin-top: 30px;
+  width:100%;
+}
+p{
+  color: red;
+  text-align: center;
+  margin-top: 5px;
+}
+img{
+  width: 410px;
+  height: 200px;
+  margin-top: 10px;
+}
+h2{
+  text-align: center;
+}
